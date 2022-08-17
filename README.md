@@ -35,13 +35,13 @@ In the search section, I try to explain that which classes can be found at the g
 ### Skeleton
 #### Wireframes
 
-[Top of the Page](https://ayhanuzumcu.github.io/milestone-project-1/wireframes/top_page.png)
+[Top of the Page](https://ayhanuzumcu.github.io/milestone-project-2/wireframes/top_page.png)
 
-[Gallery](https://ayhanuzumcu.github.io/milestone-project-1/wireframes/gallery.png)
+[Gallery](https://ayhanuzumcu.github.io/milestone-project-2/wireframes/gallery.png)
 
-[Map View](https://ayhanuzumcu.github.io/milestone-project-1/wireframes/mapView.png)
+[Map View](https://ayhanuzumcu.github.io/milestone-project-2/wireframes/mapView.png)
 
-[Contact](https://ayhanuzumcu.github.io/milestone-project-1/wireframes/contact.png)
+[Contact](https://ayhanuzumcu.github.io/milestone-project-2/wireframes/contact.png)
 
 ### Surface
 
@@ -78,9 +78,9 @@ You can find the links to the test results here:
 
 You can find the screenshoots here:
 
-[HTML Test Result](https://ayhanuzumcu.github.io/milestone-project-1/w3c-validation/HTML.jpg)
+[HTML Test Result](https://ayhanuzumcu.github.io/milestone-project-2/w3c-validation/HTML.jpg)
 
-[CSS Test Result](https://ayhanuzumcu.github.io/milestone-project-1/w3c-validation/CSS.jpg)
+[CSS Test Result](https://ayhanuzumcu.github.io/milestone-project-2/w3c-validation/CSS.jpg)
 
 During the self-testing, I have added a class to the top nav bar using "fixed-top" Bootstrap class to fixed the navbar on the top of the page. And also the menu items set to the right on mobile friendly pages.
 
