@@ -74,7 +74,7 @@ You can find the links to the test results here:
 
 [HTML Test Result Link](https://validator.w3.org/nu/?doc=https%3A%2F%2Fayhanuzumcu.github.io%2Fmilestone-project-1%2F)
 
-[CSS Test Result Link](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fayhanuzumcu.github.io%2Fmilestone-project-1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+[CSS Test Result Link](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fayhanuzumcu.github.io%2Fmilestone-project-2%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 You can find the screenshoots here:
 
