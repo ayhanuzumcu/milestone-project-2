@@ -32,7 +32,7 @@ ul {
 /* JUMBOTRON */
 
 .jumbotron-container {
-    height: 350px;
+    height: 250px;
     background: url('/images/15.jpg') no-repeat bottom right fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -42,7 +42,8 @@ ul {
     align-items: center;
     justify-content: center;
     position: relative;
-    margin-top: auto;
+    margin-top: 50px;
+    margin-bottom: 0;
 }
 
 .jumbotron {
