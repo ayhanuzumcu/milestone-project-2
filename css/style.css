@@ -78,13 +78,13 @@ ul {
 /* MAP */
 
 .class {
-    margin-top: -100px;
+    margin-top: -150px;
     margin-bottom: 50px;
     
 }
 
 #map {
-    height: 71vh;
+    height: 75vh;
     margin: 0;
     padding: 0;
   }
@@ -112,7 +112,7 @@ ul {
 
 #contact {
     
-    background: url("../images/15.jpg") no-repeat bottom right fixed;
+    background: url("/images/15.jpg") no-repeat bottom right fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
