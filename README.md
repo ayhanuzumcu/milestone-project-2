@@ -30,7 +30,7 @@ My aim for the website design was in the easiest way possible to search holiday 
 For holiday makers, I wanted to provide them some information about holiday places like hotel and restaurants on the map and show some images.
 
 ### Structure
-In the search section, I try to explain that which classes can be found at the gym and there is also short brief of each class they can join. And also they can find the places showing the information about them for each place.
+In the search section, I try to show that which destinations can be found on the map and there is also short info of each places they can choose. A
 
 ### Skeleton
 #### Wireframes
@@ -72,7 +72,7 @@ HMTL and CSS codes were tested on W3C Validation Service and both tests were pas
 
 You can find the links to the test results here:
 
-[HTML Test Result Link](https://validator.w3.org/nu/?doc=https%3A%2F%2Fayhanuzumcu.github.io%2Fmilestone-project-1%2F)
+[HTML Test Result Link](https://validator.w3.org/nu/?doc=https%3A%2F%2Fayhanuzumcu.github.io%2Fmilestone-project-2%2Findex.html)
 
 [CSS Test Result Link](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fayhanuzumcu.github.io%2Fmilestone-project-2%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
@@ -93,7 +93,7 @@ To run locally, you can clone this repository.
 ## Credits
 
 ### Content
-All data and information in the class section was found on Google by searching and after reading all text then it was converted and summarised to make it simple from different resources. It was used Google Map API to show destinations on the map. 
+All data and information in the class section was found on Google by searching and after reading all text then it was converted and summarised to make it simple from different resources. It was used Google Map API javascript codes to show destinations on the map. 
 
 ### Media
 
