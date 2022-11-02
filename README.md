@@ -60,13 +60,44 @@ This website was designed for two page only. You can find pages that gallery, ma
 
 
 ### Testing
-When you look at this website can find some information about the classes and its timetables and also links to our social media pages.
+All internal and external navigation links have been tested on the site. The interactive map, form validation, the submit, and reset buttons have also been tested. The responsive design has also been tested using the Chrome Developer Tools. All HTML, CSS, and JS files have been passed through code validators and errors have been fixed. On mobile devices, the page was looking responsive and all sections was shown in the middle.
 
 If you want to send a message to us, you need to fill the form on Contact section. If you do not fill the form, you will be notified because the "required" attribute was added to each fields of the form.
 
 All social media links open in a new window using '"target="_blank"' and all of them have been tested to make sure that they open in a new tab and correct destination.
 
-This website was tested on different browsers and mobile devices to make sure everything is working correctly. On mobile devices, the page was looking responsive and all sections was shown in the middle.
+#### Manual Testing
+
+This website was tested on different browsers and mobile devices to make sure everything is working correctly. I used google chrome developer mode to test the website on different devices I also tested the website on my phone (samsung galaxy s21 Ultra).
+
+Also it was tested on devices below;
+
+| Browser       | OS             | Device        | Result        |
+| ------------- | -------------- | ------------- | ------------- |
+| Safari        | iOS 10.3       | iPhone 6      | OK            |
+| Opera         | Android 11.0   | Galaxy Tab A6 | OK            |
+| Opera         | Windows 10     | Desktop       | OK            |
+| Firefox       | Windows 10     | Desktop       | OK            |
+| Chrome        | Windows 10     | Desktop       | OK            |
+| Chrome        | Android 12     | Sansung S22   | OK            |
+
+While manual testing I made sure that the:
+
+- The site was visible correctly on all devices
+- Buttons were operational
+- Text input box's allowed all users to input correctly
+- Web links opened up new windows
+
+As a traveller I want:
+
+- To learn about hotels and place of interests in holiday places in Turkey
+- The interactive map feature gives an overview of the location of hotels and restaurants in Izmir, Mugla and Antalya in Turkey using the scroll and zoom function.
+- To know which destination would be suitable and that matches my budget
+- To see the map labels to get address and price information.
+
+I also used online tool chrome extension Lighthouse to check the performance.
+
+The result is here: [Lighthouse Test Result](https://ayhanuzumcu.github.io/milestone-project-2/w3c-validation/light.jpg)
 
 HMTL and CSS codes were tested on W3C Validation Service and both tests were passed.
 
@@ -85,9 +116,28 @@ You can find the screenshoots here:
 During the self-testing, I have added a class to the top nav bar using "fixed-top" Bootstrap class to fixed the navbar on the top of the page. And also the menu items set to the right on mobile friendly pages.
 
 
-### Deployment
-This website is hosted using Github pages, deployed directly from the master branch. In order for the site to deploy correctly on Github pages, the landing page needs to be named 'index.html'.
-To run locally, you can clone this repository.
+## Deployment
+
+### How to run this project locally
+
+1. Log into GitHub and locate the 'milestone-project-2' repository on the 'ayhanuzumcu' account.
+2. Click on the 'Settings' icon at the top of the repository page.
+3. Scroll down the panel on the left-side of the page and click on the 'Pages' section.
+4. Under the 'Source' section, click on the 'None' dropdown button and select 'main'. Then click '/root' in the next drop-down button. Then click 'Save'.
+5. Wait about 10 minutes for the site to be built before clicking on the [link](https://ayhanuzumcu.github.io/milestone-project-2) above in the blue box.
+
+### Forking the GitHub repository
+
+1. Log into GitHub and find the 'milestone-project-2' repository on the 'ayhanuzumcu' account.
+2. At the top of the repository page, click on the 'fork' button. This will create a copy of the repository in your GitHub account. For more information follow this [link](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository).
+
+### Cloning a repository
+1. Log into GitHub and find the 'milestone-project-2' repository on the 'ayhanuzumcu' account.
+2. At the top of the repository page, click on the 'Code' drop down button and copy the HTTPS URL that is displayed.
+3. Open Git Bash.
+4. Change the current working directory to the location where you want the cloned directory.
+5. Type 'git clone' and paste the URL you copied in step 2.
+6. Press enter. Your clone has been created. For more inforation, follow this [link](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository).
 
 
 ## Credits
